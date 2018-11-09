@@ -1,6 +1,6 @@
 # NotSoCheapDungeon
 
-![Screenshot](https://imgur.com/a/rh1O3Ru)
+![Screenshot](https://github.com/AudCavalier/NotSoCheapDungeon/blob/master/CheaperDUNGEON.png)
 
 OldSchool "3D" ray-casting rendering exercise, generating a random maze
 The idea is based on the MMORPG Final Fantasy XIV's mini game "Cheap Dungeon", which is basically the same idea, but it had a small puzzle to solve
